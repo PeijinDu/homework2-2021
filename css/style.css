@@ -1,12 +1,9 @@
 
 body{
 	background-color: #000000;
+	color: #ffffff;
 	font-family: 'Times New Roman', Times, sans-serif;
-	color: white;
-	
-	
 }
-
 
 h1{
 	font-size: 64px; 
@@ -15,7 +12,7 @@ h1{
 }
 h2{
 	font-size: 32px;
-	text-shadow: 4px 2px 2px  #808080;
+	text-shadow: 4px 2px 2px #808080;
 }
 p{
 	font-size: 24px;
@@ -46,7 +43,7 @@ div{
 }
 
 #yellow{
-	background-color: #ECFF4D;
+	background-color: #ffff00;
 	text-align: right;
 }
 
